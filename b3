@@ -1,0 +1,14 @@
+| LỢI ÍCH                                                                                                                      | HẠN CHẾ                                             |
+| ---------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------- |
+| 1. Tiết kiệm thời gian xử lý thông tin                                                                                       |                                                     |
+| Ví dụ: Dùng ChatGPT để tóm tắt 50 trang tài liệu OOP hoặc mạng máy tính trong vài phút thay vì đọc 2–3 tiếng.                | 1. Nguy cơ hiểu sai do quá phụ thuộc                |
+| Ví dụ: Copy code từ Copilot hoặc ChatGPT mà không hiểu, dẫn đến lỗi runtime khó sửa hoặc học “ảo tưởng” là mình biết.        |                                                     |
+| 2. Giải thích lại kiến thức theo cách dễ hiểu                                                                                |                                                     |
+| Ví dụ: ChatGPT giải thích “runtime error vs syntax error”, “TCP vs UDP” bằng ví dụ trực quan giúp hiểu nhanh hơn giáo trình. | 2. Có thể trả lời sai hoặc “tự tin nhưng sai”       |
+| Ví dụ: Claude đôi khi đưa định nghĩa sai về thuật toán hoặc cấu trúc dữ liệu, khiến người học hiểu nhầm.                     |                                                     |
+| 3. Tăng hiệu suất làm bài tập thực hành                                                                                      |                                                     |
+| Ví dụ: Dùng Canva AI tạo slide, hoặc Notion AI để tổ chức ghi chú giúp ôn thi dễ hơn.                                        | 3. Giảm khả năng tư duy độc lập nếu không kiểm soát |
+| Ví dụ: Lạm dụng ChatGPT để giải bài C, Python, ReactJS → lâu dài giảm kỹ năng debug và giải quyết vấn đề.                    |                                                     |
+| 4. Hỗ trợ code, gợi ý mẫu, phát hiện lỗi nhanh                                                                               |                                                     |
+| Ví dụ: GitHub Copilot gợi ý template class, hàm xử lý chuỗi, hoặc báo lỗi cú pháp khi code.                                  | 4. Dễ bị rối do quá nhiều thông tin                 |
+| Ví dụ: ChatGPT đưa 5–10 hướng giải quyết khác nhau khiến người mới học khó chọn phương án tối ưu.                            |                                                     |
